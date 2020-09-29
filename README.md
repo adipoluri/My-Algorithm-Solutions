@@ -1,5 +1,5 @@
 # My-Algorithm-Solutions
-I created this repository with hopes to publish the algorithms I have created. I hope that I can come back to this repo in the future and see how much I have grown.
+I created this repository with hopes to publish the algorithms I have created. I want to keep them here for future use aswell as possibly using this repo as a teaching resource. In the end, I probably will use this repo to store my learning so I can come back in the future to see how much I have grown.
 
 ## Algorithms:
 
