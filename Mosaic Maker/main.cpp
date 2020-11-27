@@ -1,9 +1,3 @@
-// File:        main.cpp
-// Author:      Cinda
-// Date:        2020-10-31
-// Description: development of gold code
-
-
 #include "rgbtree.h"
 #include "cs221util/PNG.h"
 #include "cs221util/RGBAPixel.h"
@@ -35,7 +29,7 @@ int main()
     // // functionality of tile: for each pixel in the target image, find pixel's NN
     // // in the kdtree, returning a photoID. Use the photoID to open the 
     // // correct file, and use that file's pixels in the appropriate place
-    // // in the return image. You'll implement this function in __________________
+    // // in the return image.
      PNG mosaic = tile(timage, searchStructure, photos);
 
      mosaic.writeToFile("customImgs/mosaic.png");
