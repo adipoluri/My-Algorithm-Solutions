@@ -6,3 +6,5 @@ I created this repository with hopes to publish the algorithms I have created. I
 - **Magic Sum Solver**: Takes an int width and returns a solution to the magic sum square of that width
 - **Mosaic Maker**: An Image Proccessing algorithm that turns an image into a mosaic of multiple images. Uses KD-tree nearest neighbour search for optimization
 - **Painter Application**: A small painter app made during an interview with a company
+- **Dome Creator**: Dividie and Conquer Convex Hull algorithm for my algorithms course problem set
+- **K-means Image Compression**: A small compression algorithm using K-means clustering
