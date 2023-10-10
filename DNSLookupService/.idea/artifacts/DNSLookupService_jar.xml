@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DNSLookupService:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DNSLookupService_jar</output-path>
+    <root id="archive" name="DNSLookupService.jar">
+      <element id="module-output" name="DNSLookupService" />
+    </root>
+  </artifact>
+</component>

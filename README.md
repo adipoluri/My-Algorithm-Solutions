@@ -8,3 +8,5 @@ I created this repository with hopes to publish the algorithms I have created. I
 - **Painter Application**: A small painter app made during an interview with a company
 - **Dome Creator**: Dividie and Conquer Convex Hull algorithm for my algorithms course problem set
 - **K-means Image Compression**: A small compression algorithm using K-means clustering
+- **Dict Client**: A Dictionary Client impleminting the DICT protocol
+- **DNS Server**: A DNS CUI like dig
