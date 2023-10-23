@@ -10,3 +10,4 @@ I created this repository with hopes to publish the algorithms I have created. I
 - **K-means Image Compression**: A small compression algorithm using K-means clustering
 - **Dict Client**: A Dictionary Client impleminting the DICT protocol
 - **DNS Server**: A DNS CUI like dig
+- **POP3 Server**: Implementation for the POP3 Protocol according to RFC 1939
