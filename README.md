@@ -11,3 +11,14 @@ I created this repository with hopes to publish the algorithms I have created. I
 - **Dict Client**: A Dictionary Client impleminting the DICT protocol
 - **DNS Server**: A DNS CUI like dig
 - **POP3 Server**: Implementation for the POP3 Protocol according to RFC 1939
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
