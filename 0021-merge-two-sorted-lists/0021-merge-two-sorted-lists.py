@@ -20,3 +20,4 @@ class Solution(object):
         else:
             return ListNode(list2.val, self.mergeTwoLists(list1,list2.next))
         
+        
