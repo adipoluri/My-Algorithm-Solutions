@@ -16,7 +16,6 @@ class Solution(object):
                 a = stack.pop()
                 if options[a] != letter:
                     return False
-        if len(stack) != 0:
-            return False    
-        return True
+  
+        return len(stack) == 0
 
