@@ -17,6 +17,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,8 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
