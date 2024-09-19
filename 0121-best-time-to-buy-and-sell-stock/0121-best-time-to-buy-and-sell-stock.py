@@ -4,15 +4,12 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        min = 10000000
-        max = -1
+        buy = prices[0]
         profit = 0
         for price in prices:
-            if price < min:
-                min = price
-                max = -1
-            elif price - min > profit:
-                max = price
-                profit = max - min
+            if price < buy:
+                buy = price
+            elif price - buy > profit:
+                profit = price - buy
 
         return profit
