@@ -1,16 +1,18 @@
-class Solution {
-    public int[] twoSum(int[] nums, int target) {
-        int[] retval = new int[2];
-        for(int i = 0; i < nums.length; i++){
-            int answer = target - nums[i];
-            for(int j = i+1; j<nums.length; j++){
-                if(nums[j] == answer){
-                    retval[0] = i;
-                    retval[1] = j;
-                    return retval;
-                }
-            }
-        }
-        return retval;
-    }
-}
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        diffs = {}
+        for i in range(0,len(nums)):
+            diff = target - nums[i]            
+            if diff in diffs.keys():
+                if diffs[diff] != i:
+                    return [diffs[diff],i]
+            
+            diffs[nums[i]] = i
+
+        return[-1,-1]
+            
