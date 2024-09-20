@@ -36,6 +36,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
 | ------- |
@@ -99,4 +100,12 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
