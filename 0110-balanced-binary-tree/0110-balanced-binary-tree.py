@@ -12,11 +12,14 @@ class Solution(object):
         """
         if root is None:
             return True
+        
+        return self.dfs(root)[1]
 
-        heightDiff = abs(self.getHeightofBtree(root.left) - self.getHeightofBtree(root.right))
-        return heightDiff <= 1 and heightDiff >= 0 and self.isBalanced(root.left) and self.isBalanced(root.right)
-
-    def getHeightofBtree(self, root):
+    def dfs(self, root):
         if root is None:
-            return 0
-        return(max(self.getHeightofBtree(root.left)+1,self.getHeightofBtree(root.right)+1))
+            return (0,True)
+        left = self.dfs(root.left)
+        right = self.dfs(root.right)
+        
+        check = abs(left[0] - right[0])
+        return(max(left[0]+1,right[0]+1),check <= 1 and check >= 0 and left[1] and right[1])
