@@ -5,12 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        high = len(nums)-1
-        low = 0
-        center = low+int((low+high)/2)
-
+        low, high = 0, len(nums)-1
+        
         while low <= high:
-            center = int(floor((low+high)/2))
+            center = int((low+high)/2)
  
             if target == nums[center]:
                 return center
