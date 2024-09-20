@@ -81,6 +81,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0792-binary-search) |
 ## Sorting
 |  |
@@ -94,4 +95,8 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
