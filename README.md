@@ -54,10 +54,12 @@ I created this repository with hopes to publish the algorithms I have created. I
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -68,6 +70,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Search
 |  |
