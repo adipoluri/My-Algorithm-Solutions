@@ -13,12 +13,12 @@ class Solution(object):
         
         version = int((low+high)/2)
         while low <= high:
-            version = int((low+high)/2)
             if isBadVersion(version):
                 high = version - 1
             else:
                 low = version + 1
+            version = int((low+high)/2)
+
         
-        print(version)
         return version if isBadVersion(version) else version + 1
 
