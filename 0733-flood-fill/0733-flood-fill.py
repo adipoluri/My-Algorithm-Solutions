@@ -22,14 +22,13 @@ class Solution(object):
 
         while len(dfs) != 0:
             x,y = dfs.pop(0)
-            print([x,y],dfs)
 
             if x > len(image)-1 or x < 0 or y > len(image[0])-1 or y < 0:
                 continue
 
             if retImg[x][y] == orig:
                 retImg[x][y] = color
-                print("paint")
+
                 dfs.append([x+1,y])
                 dfs.append([x-1,y])
                 dfs.append([x,y+1])
