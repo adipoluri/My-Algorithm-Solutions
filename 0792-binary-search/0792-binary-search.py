@@ -18,5 +18,5 @@ class Solution(object):
             else:
                 high = center - 1
 
-        return -1 if nums[center] != target else center
+        return -1
 
