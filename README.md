@@ -18,6 +18,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | ------- |
 | [0001-two-sum](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0792-binary-search](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,8 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0226-invert-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
