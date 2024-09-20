@@ -23,11 +23,13 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -68,4 +70,8 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0792-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
