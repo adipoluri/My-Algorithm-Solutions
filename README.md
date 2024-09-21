@@ -27,6 +27,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | [0141-linked-list-cycle](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0409-longest-palindrome) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | [0125-valid-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -125,4 +127,8 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
