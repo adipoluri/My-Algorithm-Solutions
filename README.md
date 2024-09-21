@@ -18,6 +18,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | ------- |
 | [0001-two-sum](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0169-majority-element) |
 | [0733-flood-fill](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0792-binary-search) |
 ## Hash Table
@@ -25,6 +26,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | ------- |
 | [0001-two-sum](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0409-longest-palindrome) |
@@ -94,6 +96,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
@@ -118,6 +121,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0383-ransom-note) |
 ## Math
 |  |
@@ -131,4 +135,8 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0409-longest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
