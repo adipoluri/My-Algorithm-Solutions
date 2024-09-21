@@ -51,6 +51,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -114,4 +115,12 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
