@@ -26,12 +26,14 @@ I created this repository with hopes to publish the algorithms I have created. I
 | [0001-two-sum](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
@@ -108,4 +110,8 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
