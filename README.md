@@ -34,6 +34,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0383-ransom-note) |
@@ -132,6 +133,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -145,4 +147,12 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
