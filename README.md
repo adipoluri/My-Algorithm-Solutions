@@ -65,6 +65,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | ------- |
 | [0070-climbing-stairs](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
