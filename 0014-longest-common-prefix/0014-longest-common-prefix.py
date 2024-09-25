@@ -4,11 +4,13 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
-        strs.sort()
         retVal = ""
         i = 0
-        
-        while i < len(strs[0]):
+    
+        while i < 200:
+            if i >= len(strs[0]):
+                return retVal
+
             curr = strs[0][i]
             for word in strs:
                 if i >= len(word):
