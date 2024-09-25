@@ -44,11 +44,13 @@ I created this repository with hopes to publish the algorithms I have created. I
 | [0242-valid-anagram](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0409-longest-palindrome) |
+| [0874-backspace-string-compare](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0874-backspace-string-compare](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0874-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +74,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | ------- |
 | [0125-valid-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0141-linked-list-cycle) |
+| [0874-backspace-string-compare](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Tree
 |  |
@@ -174,4 +177,5 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
