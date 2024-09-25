@@ -4,6 +4,9 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
+        return self.sol2(strs)
+
+    def sol1(self, strs):
         retVal = ""
         i = 0
     
@@ -21,3 +24,13 @@ class Solution(object):
             i += 1
         return retVal
                 
+    def sol2(self, strs):
+        if strs == None or len(strs) == 0:
+            return ""
+        
+        for i in range(len(strs[0])):
+            curr = strs[0][i]
+            for word in strs:
+                if i == len(word) or word[i] != curr:
+                    return word[0:i]
+        return strs[0]
