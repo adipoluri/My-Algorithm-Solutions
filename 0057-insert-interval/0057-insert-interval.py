@@ -21,17 +21,11 @@ class Solution(object):
         
         intervals.insert(int((low+high)/2)+1, newInterval)
 
-        minI = intervals[0][0]
-        maxI = intervals[0][1]
-        retVal = []
+        res = []
         for interval in intervals:
-            if interval[0] <= maxI:
-                minI = min(minI,interval[0])
-                maxI = max(maxI,interval[1])
+            if not res or res[-1][1] < interval[0]:
+                res.append(interval)
             else:
-                retVal.append([minI,maxI])
-                minI = interval[0]
-                maxI = interval[1]
+                res[-1][1] = max(res[-1][1], interval[1])
     
-        retVal.append([minI,maxI])
-        return retVal
+        return res
