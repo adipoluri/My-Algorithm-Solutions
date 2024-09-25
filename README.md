@@ -38,6 +38,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0125-valid-palindrome) |
@@ -178,4 +179,8 @@ I created this repository with hopes to publish the algorithms I have created. I
 | ------- |
 | [0067-add-binary](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0874-backspace-string-compare) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
