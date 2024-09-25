@@ -20,6 +20,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0217-contains-duplicate) |
+| [0252-meeting-rooms](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0252-meeting-rooms) |
 | [0733-flood-fill](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0792-binary-search) |
 ## Hash Table
@@ -118,6 +119,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | [0169-majority-element](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0252-meeting-rooms) |
 ## Matrix
 |  |
 | ------- |
