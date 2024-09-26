@@ -30,6 +30,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0169-majority-element) |
@@ -40,6 +41,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0020-valid-parentheses) |
@@ -191,4 +193,8 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
