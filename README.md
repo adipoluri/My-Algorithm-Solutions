@@ -23,6 +23,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | [0169-majority-element](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0252-meeting-rooms) |
+| [0542-01-matrix](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0792-binary-search) |
 ## Hash Table
@@ -73,6 +74,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | [0070-climbing-stairs](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0542-01-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | [0100-same-tree](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -130,6 +133,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0733-flood-fill) |
 ## Binary Search Tree
 |  |
