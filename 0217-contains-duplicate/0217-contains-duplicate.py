@@ -6,7 +6,7 @@ class Solution(object):
         """
         counts = {}
         for num in nums:
-            if counts.get(num,-1) != -1:
+            if num in counts:
                 return True
             else:
                 counts[num] = 1
