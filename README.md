@@ -55,6 +55,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0874-backspace-string-compare) |
 ## Linked List
@@ -148,6 +149,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
