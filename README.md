@@ -20,6 +20,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | [0053-maximum-subarray](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0252-meeting-rooms) |
@@ -83,6 +84,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | ------- |
 | [0125-valid-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0874-backspace-string-compare](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Tree
@@ -124,6 +126,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0792-binary-search) |
 ## Sorting
