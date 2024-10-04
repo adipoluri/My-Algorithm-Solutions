@@ -17,6 +17,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -82,6 +83,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -132,6 +134,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0242-valid-anagram) |
