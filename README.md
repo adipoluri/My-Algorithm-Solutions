@@ -25,6 +25,7 @@ I created this repository with hopes to publish the algorithms I have created. I
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0252-meeting-rooms) |
 | [0542-01-matrix](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0733-flood-fill) |
@@ -227,4 +228,8 @@ I created this repository with hopes to publish the algorithms I have created. I
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/1014-k-closest-points-to-origin) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/adipoluri/My-Algorithm-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
