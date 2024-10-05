@@ -14,7 +14,6 @@ class Solution(object):
         R[length-1] = 1
         for i in reversed(range(0,length-1)):
             R[i] = nums[i+1] * R[i+1]
-            print(i)
 
         res = []
         for i in range(0,length):
